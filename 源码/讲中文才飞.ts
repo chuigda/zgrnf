@@ -6,3 +6,6 @@ export type 空 = null
 export type 未知 = unknown
 export type 永不返回 = never
 export type 无返回 = void
+
+export const 是: 布尔 = true
+export const 否: 布尔 = false
